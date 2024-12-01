@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
     return (
-      <footer className="bg-blue-600 py-4 border">
+      <footer className="bg-[#008080] py-4 border">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <span className="text-2xl text-white tracking-tight font-medium">
           <Link to='/'>Nestivo</Link>
